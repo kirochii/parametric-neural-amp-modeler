@@ -54,7 +54,6 @@ PNAM aims to introduce support for **discrete multi-position switches**, allowin
 
 Examples include:
 
-- Guitar pickup selectors (3-way and 5-way).
 - Amplifier voicing switches.
 - Bright switches.
 - Channel selectors.
